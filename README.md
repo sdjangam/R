@@ -1,2 +1,2 @@
 # R
-R and related to all basic concepts
+R for data science
