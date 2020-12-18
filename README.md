@@ -1,2 +1,2 @@
 # R
-R for data science
+R 
