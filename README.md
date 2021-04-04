@@ -27,100 +27,141 @@ Coordinate Systems
 # RStudio Basics
 
 Introduction to R Studio
+
 RStudio Editor
+
 Keyboard shortcuts
+
 RStudio Diagnostics
 
 # Data Transformation with dplyr
 
 Introduction to dplyr
+
 dplyr-filter
+
 dplyr-arrange, select
+
 dplyr-mutate
+
 dplyr-summarize
+
 dplyr-Grouping and Ungrouping
 
 #  Exploratory Data Analysis
 
 Introduction to Exploratory Data Analysis
+
 Variation
+
 Covariation
 
 # Tibbles
 
 Introduction to Data Wrangling and Tibbles
+
 Tibbles Vs Data Frames
 
 # Data Import with readr
 
 Introduction to Readr and Read csv
+
 Parsing Vector
+
 Parsing a file using Readr
+
 Writing to files
 
 # Tidy data with tidyr
 
 Introduction to tidy data
+
 Spreading and Gathering
+
 Separating and Unite
+
 Missing Values
 
 # Relational Data with dplyr
 
 Relational Data in Keys
+
 Mutating joins in dplyr
+
 Filtering joins and Set operations
 
 # Strings with stringr
 
 Introduction to Strings and Combining Strings
+
 Regular Expressions
 
 # Factors with forcats
 
 Creating Factors using forcats
+
 Visualization and reordering of categorical variables
 
 #  Dates and times with lubridate
 
 Creating Date/Time objects
+
 Date/Time Components
+
 Time Spans
 
 # Pipes with magrittr
 
 Details about Pipe operator
+
 Tools in magrittr
 
 # Functions
 
 Functions in R
+
 Conditional execution and function arguments
+
 Variable Arguments in R
+
 Return values in R
 
 # Vectors
 
 Basics of vector in R
+
 Basics of Atomic vectors
+
 Coercion, Test functions and Recyling rules
+
 Naming and subset
+
 Lists
+
 Augmented vectors
 
 # Iterations with purrr
 
 For loop and variations
+
 Passing functions as an arguments
+
 Map Functions
+
 Dealing with failure
+
 Advanced purrr
+
 other patterns of for loop
 
 # Model basics with modelr
 
 Introduction to modeling
+
 Building your first simple model in R
+
 Visualizing models in R
+
 Modeling with categorical variables
+
 Modeling with mix of categorical variables
