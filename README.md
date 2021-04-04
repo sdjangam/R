@@ -9,12 +9,19 @@ In this module, I will again talk about both theory as well as hands-on about va
 # Introduction to R
 
 R Vs Python
+
 Basics of R
+
 Data Exploration in R
+
 Customizations for ggplot in R
+
 Common Problems, Facets, Geoms
+
 Statistical Transformation
+
 Position Adjustments
+
 Coordinate Systems
 
 # RStudio Basics
