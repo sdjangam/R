@@ -255,6 +255,15 @@ Lists
 
 Augmented vectors
 
+
+
+![image](https://user-images.githubusercontent.com/67232573/113884010-80a0ff00-9773-11eb-999e-15dbddd038c7.png)
+
+
+
+
+
+
 # Iterations with purrr
 
 For loop and variations
@@ -269,6 +278,15 @@ Advanced purrr
 
 other patterns of for loop
 
+
+
+![image](https://user-images.githubusercontent.com/67232573/113884238-a9c18f80-9773-11eb-819b-2f8b0f1f8c19.png)
+
+
+
+
+
+
 # Model basics with modelr
 
 Introduction to modeling
@@ -280,3 +298,13 @@ Visualizing models in R
 Modeling with categorical variables
 
 Modeling with mix of categorical variables
+
+
+
+
+![image](https://user-images.githubusercontent.com/67232573/113884388-c6f65e00-9773-11eb-8e5c-3e58778a425f.png)
+
+
+
+
+
