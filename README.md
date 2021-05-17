@@ -4,7 +4,7 @@
 
 While Python has been used by many programmers even before they were introduced to data science, R has its main focus on statistics, data analysis, and graphical models. R is meant mainly for data science. Just like Python, R has also has very good community support. Python is good for beginners, R is good for experienced data scientists. R provides the most comprehensive statistical analysis packages.
 
-In this module, I will again talk about both theory as well as hands-on about various aspects of R. I will use the R Studio for hands-on. I will discuss basic programming aspects of R as well as visualization using R. Then, I will talk about how to use R for exploratory data analysis, for data wrangling and for building models on labeled data. Overall, I will cover whatever you need to do good data science using R.
+In this modules, I will again talk about both theory as well as hands-on about various aspects of R. I will use the R Studio for hands-on. I will discuss basic programming aspects of R as well as visualization using R. Then, I will talk about how to use R for exploratory data analysis, for data wrangling and for building models on labeled data. Overall, I will cover whatever you need to do good data science using R.
 
 
 ![image](https://user-images.githubusercontent.com/67232573/113881607-70882000-9771-11eb-93bc-fe9de88c4817.png)
